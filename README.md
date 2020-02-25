@@ -3,7 +3,7 @@
 
 
 
-Goal: to complete 5 8kyu level fundamentals codewars challenges.
+Goal: to complete 5 8kyu level fundamentals Codewars challenges.
 
 
 All of the work is hosted on one index.html file
