@@ -19,3 +19,5 @@ function paperwork(classmates, pages){
     return totalPages
   }
 }
+
+console.log( 'test question one answer:' + ' '+ paperwork(5,5))

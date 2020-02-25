@@ -10,3 +10,5 @@
 
 // ANSWER //
 const check = (a,x) => a.includes(x);
+
+console.log( 'test question two answer:' + ' '+ check([1,2,3],2))

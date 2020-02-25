@@ -16,4 +16,5 @@ function orderOperations () {
   return (2 + 2) * (2 + 2) * 2
 }
 
-console.log(orderOperations())
+
+console.log( 'Monday 2/24/2020: Grasshopper problem Answer' + ' '+ orderOperations())

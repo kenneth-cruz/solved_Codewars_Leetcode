@@ -12,3 +12,6 @@ function makeNegative(number) {
   else{
   return(neg)}
 }
+
+
+console.log( 'test question four answer:' + ' '+ makeNegative(10))

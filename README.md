@@ -1,7 +1,14 @@
 # codewars
 
-Goal: to complete 5 8kyu level fundamentals codewar challenges.
 
-I completed the challenge: 5 I feel good about my code: 5
 
-All of the work is hosted on one index.html file and the relevant code for each question is listed under a script tag in the HTML.
+
+Goal: to complete 5 8kyu level fundamentals codewars challenges.
+
+
+All of the work is hosted on one index.html file
+The relevant code for each question is listed under a script tag in the HTML.
+
+I also ran a console.log on each problem to test it with a plausible test.
+
+![Codewars Logo](/images/codewarsLogo.png)
