@@ -7,4 +7,4 @@ function numberToPower(number, power){
 }
 
 
-console.log('sample answer for March 1st is: ' + ' ' + numberToPower(2,3));
+console.log('sample answer for March 1st is: ' + ' ' + '' + numberToPower(2,3));
