@@ -1,7 +1,14 @@
-function convertBase20ToDecimal(init){
-  let parser = parseInt(init, 20)
-  if(isNaN(parser)){return -1}
-  else{ return( parser) };
+function disemvowel(str) {
+  console.log(str)
+  let split = str.split("")
+  for(i=0;i<split.length;i++){
+    if(split[i] == 'a' || split[i] == 'A' || split[i] == 'E' || split[i] == 'e' || split[i] == 'I' || split[i] == 'i' || split[i] == 'O' || split[i] == 'o' || split[i] == 'U' || split[i] == 'u'){
+    split[i] = ''
+    }
+  }
+  return(split.join("",""))
 }
 
-console.log('sample answer for March 19th is: ' + ' ' + '' + convertBase20ToDecimal(1));
+
+// March 19th
+// level 7: disemvowel Trolls

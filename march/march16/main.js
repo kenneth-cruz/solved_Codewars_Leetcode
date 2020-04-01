@@ -1,6 +1,8 @@
-function arrayPlusArray(arr1, arr2) {
-  let sum1 = arr1.reduce((a,b) => a+b,0)
-  let sum2 = arr2.reduce((a,b) => a+b,0)
-  return sum1+sum2
+function descendingOrder(n){
+  let splitUp = n.toString().split("")
+  splitUp.sort(function(a,b){return a-b})
+  return parseInt(splitUp.reverse().join('',''))
 }
-console.log('sample answer for March 16th is: ' + ' ' + '' + arrayPlusArray([2,3,4],[2,4,4]));
+
+// March 26th:
+// Level 7: DescendingOrder
