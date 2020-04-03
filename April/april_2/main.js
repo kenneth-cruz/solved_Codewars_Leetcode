@@ -1,13 +1,13 @@
 // Kenneth cruz
 // Leetcode Level : Easy
-// Leetcode problem: Find Numbers with Even Number of Digits
+// Leetcode problem: TWO SUM
 
-var findNumbers = function(nums) {
-    let numberOfEvens = 0;
-    for (i = 0; i < nums.length; i++){
-        if(nums[i].toString().length % 2 === 0){
-            numberOfEvens += 1;
-        }
+var twoSum = function(nums, target) {
+    for(i=0;i<nums.length;i++){
+      for (j = i + 1; j < nums.length; j++){
+          if ( target - nums[i] == nums[j]){
+              return [i, j]
+          }
+      }
     }
-    return numberOfEvens;
-};
+}
