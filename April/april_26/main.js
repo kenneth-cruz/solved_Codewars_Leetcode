@@ -1,6 +1,6 @@
 // Kenneth cruz ... April 26th, 2020
 // CodeWar Level : 6 KYU
-// Leetcode problem: Find the odd int
+// CodeWar Problem: Find the odd int
 
 function findOdd(A) {
   //count the numbers and push them into the array

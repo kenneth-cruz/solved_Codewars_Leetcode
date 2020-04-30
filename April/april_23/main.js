@@ -1,6 +1,6 @@
 // Kenneth cruz ... April 23rd, 2020
 // CodeWar Level : 7 KYU
-// Leetcode problem: Find the Divisor
+// Codewar problem: Find the Divisor
 
 function divisors(integer) {
   let answer = [];

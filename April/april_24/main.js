@@ -1,6 +1,6 @@
 // Kenneth cruz ... April 24th, 2020
 // CodeWar Level : 7 KYU
-// Leetcode problem: Calculator: Coin Combination
+// Codewar problem: Calculator: Coin Combination
 
 var coinCombo = function(cents) {
   console.log(cents, 'total money in cents')

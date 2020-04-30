@@ -1,6 +1,6 @@
 // Kenneth cruz ... April 21st, 2020
 // CodeWar Level : 7 KYU
-// Leetcode problem: Square Every Digit
+// CodeWar problem: Square Every Digit
 
 function squareDigits(num){
   let array = num.toString().split('')

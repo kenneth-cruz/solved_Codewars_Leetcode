@@ -1,6 +1,6 @@
 // Kenneth cruz ... April 20th, 2020
 // CodeWar Level : 7 KYU
-// Leetcode problem: Highet & Lowest
+// CodeWar problem: Highet & Lowest
 
 function highAndLow(numbers){
   let array = numbers.split(' ')

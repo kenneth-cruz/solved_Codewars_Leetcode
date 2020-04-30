@@ -1,6 +1,6 @@
 // Kenneth cruz ... April 22nd, 2020
 // CodeWar Level : 7 KYU
-// Leetcode problem: X's and O's
+// Codewar problem: X's and O's
 
 function XO(str) {
     console.log(str, 'hello')
