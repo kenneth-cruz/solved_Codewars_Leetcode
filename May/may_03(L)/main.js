@@ -1,4 +1,4 @@
-// Kenneth cruz ... May 2nd, 2020
+// Kenneth cruz ... May 3rd, 2020
 // LeetCode Level : Easy
 // LeetCode problem: Kids With the Greatest Number of Candies
 
